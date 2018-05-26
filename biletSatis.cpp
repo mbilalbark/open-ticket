@@ -20,7 +20,7 @@ int bos = 0,dolu = 0; // boþ ve dolu koltuk sayýlarý
 int koltuklar[50];
 int odenecekTutar = 0;
 char musteriAdi[50];
-
+// ana fonksiyon
 int main(int argc, char** argv) {
     
 	cout<<"\t\t\t\tBilet Satis Programi"<<endl;
